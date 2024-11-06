@@ -86,7 +86,7 @@ header nav a:hover {
 
 
 .contact {
-    padding: 50px;
+
     background-color: #f9f9f9;
     text-align: center;
 }
@@ -199,7 +199,8 @@ footer {
 
 .social-icons img {
     width: 30px;
-    margin: 0 5px;
+    margin: 0 6px;
+
 }
 
 .copyright {
